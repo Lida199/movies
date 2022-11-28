@@ -1,0 +1,39 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#part1, #part2{
+    margin-top: 50px;
+    width: 90%;
+    margin-inline: auto;
+}
+label {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 1.5rem;
+}
+
+input {
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    width: 30%;
+}
+
+button {
+    border: none;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+#results, #results2 {
+    font-size: 1.5rem;
+}
+
+#btn1 {
+    display: block;
+    margin-top: 15px;
+}
